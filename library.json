@@ -1,0 +1,16 @@
+{
+  "name" : "kbide-plugin-linetracking",
+  "title": "IR Line Tracking",
+  "keywords": "linetracking, esp32, esp8266, arduino",
+  "description": "Plugin linetracking for KB-IDE",
+  "git": "https://github.com/cmmc-kbide/kbide-plugin-linetracking/",
+  "author": "cmmakerclub",
+  "email": "",
+  "url": "https://github.com/cmmc-kbide/kbide-plugin-linetracking/",
+  "version": "1.0.0",
+  "board" : "",
+  "platform": ["arduino-esp32"],
+  "license": "",
+  "image" : "/static/display.png",
+  "homepage": "http://www.kbide.org"
+}
